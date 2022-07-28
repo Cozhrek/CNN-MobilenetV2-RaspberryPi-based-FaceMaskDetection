@@ -6,11 +6,11 @@ How to use:
 
 1. Install all requirements needed : (i recommend you to just install conda first, it's easier to minimize error on installation)
 Python 3.7 or newer,
-cv2,
-numpy,
-matplotlib,
-tensorflow,
-imutils
+- cv2,
+- numpy,
+- matplotlib,
+- tensorflow,
+- imutils
     
 2. Clone the repository
 
@@ -20,3 +20,6 @@ imutils
 
 5. Now you can run the face mask detection. ('python run sistem_deteksi_masker.py -m modelname.model')
 <img src="/demo.png"/>
+
+
+
