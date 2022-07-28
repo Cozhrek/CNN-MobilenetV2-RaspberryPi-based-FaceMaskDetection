@@ -19,4 +19,4 @@ imutils
 4. After that you can run train.py to make your model. ('python train.py -d dataset -p plot.png -m model.model')
 
 5. Now you can run the face mask detection. ('python run sistem_deteksi_masker.py -m modelname.model')
-<img src="/demo.png" style="height: 100px; width:100px;"/>
+<img src="/demo.png" style="height: 600px; width:600px;"/>
