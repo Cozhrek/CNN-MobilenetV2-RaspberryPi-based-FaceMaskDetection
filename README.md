@@ -5,12 +5,12 @@ This is a Face mask detection project using CNN algorithm, design to run on a ra
 How to use:
 
 1. Install all requirements needed : (i recommend you to just install conda first, it's easier to minimize error on installation)
-    Python 3.7 or newer
-    cv2
-    numpy
-    matplotlib
-    tensorflow
-    imutils
+Python 3.7 or newer
+cv2
+numpy
+matplotlib
+tensorflow
+imutils
     
 2. Clone the repository
 
@@ -19,4 +19,4 @@ How to use:
 4. After that you can run train.py to make your model. ('python train.py -d dataset -p plot.png -m model.model')
 
 5. Now you can run the face mask detection. ('python run sistem_deteksi_masker.py -m modelname.model')
-<img src="/assets/demo.jpg" style="height: 100px; width:100px;"/>
+<img src="/demo.jpg" style="height: 100px; width:100px;"/>
